@@ -16,5 +16,7 @@ https://www.linkedin.com/in/zack-sloan-507222206/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[LCTechnicalResume.pdf](https://github.com/ZackSquatch/liftoff-assignments/files/6118984/LCTechnicalResume.pdf)
+
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
