@@ -7,5 +7,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-<h1>Change this text with a link to your project repository here. Also add a README.md file to your project repository.</h1>
-<h2><a href="https://github.com/BabelFishies/SilverHippogryphs">Project Repo!</a></h2>
+<h2>Change this text with a link to your project repository <h1><a href="https://github.com/BabelFishies/SilverHippogryphs">here</a></h1>. Also add a README.md file to your project repository.</h2>
+
