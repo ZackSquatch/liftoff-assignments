@@ -8,4 +8,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ### Project Repository
 <h1>Change this text with a link to your project repository <a href="https://github.com/BabelFishies/SilverHippogryphs">here</a>. Also add a README.md file to your project repository.</h1>
+<h2><a href="https://github.com/BabelFishies/SilverHippogryphs">Here's that link again in case ya missed it ;)</a</h2>
 
